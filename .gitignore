@@ -45,5 +45,5 @@ app.*.map.json
 # .gitignore
 
 # Ignore my_data.dart with API token
-flutter_weather_bloc/lib/data/my_data.dart
+/lib/data/my_data.dart
 
